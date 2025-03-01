@@ -2,23 +2,23 @@
 
 A basic calculator built using HTML, CSS, and JavaScript.
 
-#Description
+# Description
 
 This project is a simple calculator that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-#Features
+# Features
 
 - Basic arithmetic operations (+, -, x, /)
 - Clear button to reset the calculator
 - Responsive design for various devices and screen sizes
 
-#Technologies Used
+# Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 
-#Getting Started
+# Getting Started
 
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser.
@@ -27,7 +27,7 @@ This project is a simple calculator that allows users to perform basic arithmeti
 
 This project is licensed under the MIT License.
 
-#Acknowledgments
+# Acknowledgments
 
 - Inspired by various calculator designs and layouts.
 - Thanks to online resources and tutorials for guidance.
